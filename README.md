@@ -54,3 +54,5 @@ const styles = StyleSheet.create({
   button: { width: '20%', padding: 20, margin: 5, backgroundColor: '#d4d4d2', borderRadius: 5 },
   buttonText: { textAlign: 'center', fontSize: 20 },
 });
+
+"calc by sahil"
